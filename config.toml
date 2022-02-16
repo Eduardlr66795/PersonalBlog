@@ -15,7 +15,7 @@ post = "/:filename/"
 quality = 99
 
 [params]
-description = "An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project."
+description = "\t  Eddie's Blog "
 homeMetaContent = "An accessibility-friendly Hugo theme, ported from the original Cupper project."
 footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
 dateFormat = "Jan 2, 2006"
@@ -23,7 +23,7 @@ codePenUser = "someUser"
 katex = true
 hideHeaderLinks = false
 search = true
-showThemeSwitcher = true
+showThemeSwitcher = false
 defaultDarkTheme = false
 moveFooterToHeader = false
 logoAlt = "An alternative text description of the logo"
@@ -44,19 +44,25 @@ weight = 2
 
 
 [[menu.nav]]
-name = "Posts"
-url = "/posts/"
+name = "Contact"
+url = "/contact/"
 weight = 3
+
+
+
+# [[menu.nav]]
+# name = "Posts"
+# url = "/posts/"
+# weight = 3
+
 
 
 # [[menu.nav]]
 # name = "Blog"
 # url = "/blog/"
-# weight = 3
+# weight = 4
 
 
-
-#
 #
 # [[menu.nav]]
 # name = "RSS"
