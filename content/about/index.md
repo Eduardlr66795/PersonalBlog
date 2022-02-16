@@ -22,14 +22,20 @@ layout = "hyde-master"
         <div class="middle">
             Software Engineer, Occasional athlete, Rock Climber, Dog Person..
             <br>
-            <img src="../images/me_bw.jpg" alt="Eddie" width="600" height="500">
+            <img src="../images/me.jpg" alt="Eddie" width="540" height="500">
             <div> Look It's me!! </div>
                 <div class="middle">
                     <div class="middle">
-                        <img src="../images/nooi.jpeg" width=300" height="350"> &emsp; &emsp;
-                        <img src="../images/boet.jpeg" width=300" height="350">
-                        <div> Our Dogs!! <a href="https://dogtime.com/dog-breeds/australian-shepherd#/slide/1" style="background-color:powderblue"> Australian Shepherds </a> </div> &emsp; &emsp;
-                    <img src="../images/me_and_carla.jpg" width=400" height="500">
+                        <img src="../images/nooi.jpeg" width=260" height="320"> &emsp; &emsp;
+                        <img src="../images/boet.jpeg" width=260" height="320">
+                        <div>
+                            ☝️ (Cute, but Psycho!) ☝️
+                            <br>
+                            Our Dogs!! <a href="https://dogtime.com/dog-breeds/australian-shepherd#/slide/1" style="background-color:powderblue"> Australian Shepherd Breed </a> 
+                        </div>
+                        </div>
+                    <img src="../images/me_and_carla.jpg" width=350" height="600">
+                    <div> ❤️ Eddie & Carla ❤️️</div>
                 </div>
             </div>
         </div>
