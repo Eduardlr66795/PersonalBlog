@@ -28,7 +28,7 @@ layout = "hyde-master"
                     <div class="middle">
                         <img src="../images/nooi.jpeg" width=300" height="350"> &emsp; &emsp;
                         <img src="../images/boet.jpeg" width=300" height="350">
-                        <div> Our Dogs!! <a href="https://dogtime.com/dog-breeds/australian-shepherd#/slide/1">Australian Shepherds</a> </div> &emsp; &emsp;
+                        <div> Our Dogs!! <a href="https://dogtime.com/dog-breeds/australian-shepherd#/slide/1" style="background-color:powderblue"> Australian Shepherds </a> </div> &emsp; &emsp;
                     <img src="../images/me_and_carla.jpg" width=400" height="500">
                 </div>
             </div>
