@@ -22,22 +22,22 @@ layout = "hyde-master"
     </head>
 	<body>
         <div class="middle">
-            <p>
-                Thanks for visiting my (in-progress) blog, please feel free to reach out to me :)
-            </p>
-                <br>
-             <a style="text-decoration: none" href="https://www.linkedin.com/in/eduard-le-roux-67608981/">
-                <img src="../icons/linkedin_icon.png"  width=100" height="100"> &emsp; &emsp;
-            </a>
-            <a style="text-decoration: none" href="mailto:eduardleroux1@gmail.com">
-                <img src="../icons/email_icon.png"  width=100" height="100"> &emsp; &emsp;
-            </a>
-            <a style="text-decoration: none" href="https://twitter.com/Eddieldnt">
-                <img src="../icons/twitter_icon.png"  width=100" height="100"> &emsp; &emsp;
-            </a>
-            <a href="../documents/cv.pdf">
-                <img src="../icons/cv_icon.png"  width=100" height="100">
-            </a>
+            <p> Thanks for visiting my (in-progress) blog, please feel free to reach out to me :) </p>
+            <br>
+            <div class="middle">
+                 <a style="text-decoration: none" href="https://www.linkedin.com/in/eduard-le-roux-67608981/">
+                    <img src="../icons/contact/linkedin_icon.png"  width=100" height="100"> &emsp; &emsp;
+                </a>
+                <a style="text-decoration: none" href="mailto:eduardleroux1@gmail.com">
+                    <img src="../icons/contact/email_icon.png"  width=100" height="100"> &emsp; &emsp;
+                </a>
+                <a style="text-decoration: none" href="https://twitter.com/Eddieldnt">
+                    <img src="../icons/contact/twitter_icon.png"  width=100" height="100"> &emsp; &emsp;
+                </a>
+                <a href="../documents/cv.pdf">
+                    <img src="../icons/contact/cv_icon.png"  width=100" height="100">
+                </a>
+            </div>
         </div>
 	</body>
 </html>
