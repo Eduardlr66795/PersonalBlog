@@ -1,19 +1,20 @@
 ---
-title: "Home"
-date: "2014-04-09"
-tags: ["posts"]
+date: "2014-03-10"
+draft: false
+lastmod: "2014-03-10"
+publishdate: "2014-03-10"
+title: ""
+toc: true
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
-
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+# Welcome!!
 
 
+
+## Move static content to `static`
+Jekyll has a rule that any directory not starting with `_` will be copied as-is to the `_site` output. Hugo keeps all static content under `static`. You should therefore move it all there.
+With Jekyll, something that looked like
+
+    ▾ <root>/
+        ▾ images/
+            logo.png
