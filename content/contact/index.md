@@ -34,9 +34,6 @@ layout = "hyde-master"
                 <a style="text-decoration: none" href="https://twitter.com/Eddieldnt">
                     <img src="../icons/contact/twitter_icon.png"  width=100" height="100"> &emsp; &emsp;
                 </a>
-                <a href="../documents/cv.pdf">
-                    <img src="../icons/contact/cv_icon.png"  width=100" height="100">
-                </a>
             </div>
         </div>
 	</body>
